@@ -1,15 +1,16 @@
 ## Hi there 👋 Meu  nome é André sou um eterno estudante e agora um novo apaixonado por programação.
 ## Bem vindo ao meu perfil.           ![FUNDO PRETO2](https://github.com/user-attachments/assets/a9c10b08-a8c7-4771-bc22-2dc1e1992ed1)
 
-- Atualmente, estou aprimorando minhas habilidades em gestão de pessoas, ativos e manutenção através de cursos e iniciativas de desenvolvimento profissional.
+- Apaixonado por dados e soluções inovadoras, busco aplicar meus conhecimentos em engenharia e minha crescente expertise em Data Science para resolver desafios complexos. Atualmente, estou aprimorando minhas habilidades em gestão de pessoas, ativos e manutenção através de cursos e iniciativas de desenvolvimento profissional, e estudando Java scipt, Python e SQL.
 
-Formado em engenharia elétrica, atuo com  análises de dados, instalações, testes e comissionamentos de sistemas elétricos de potência e automação industrial. Possuo vasta experiência em projetos elétricos, especificações técnicas e manutenção de sistemas de potência.
+- Formado em engenharia elétrica, com experiência em análises de dados, instalações, testes e comissionamentos de sistemas elétricos de potência e automação industrial. Possuo vasta experiência em projetos elétricos, especificações técnicas e manutenção de sistemas de potência, habilidades que agregam valor na análise de grandes conjuntos de dados.
 
-Tive o privilégio de contribuir em um projeto na China, onde otimizei o processo de fabricação de painéis de baixa tensão, garantindo prazos e qualidade.
+- Tive o privilégio de contribuir em um projeto na China, onde otimizei o processo de fabricação de painéis de baixa tensão, garantindo prazos e qualidade.
 
-Desde 2017, como líder da Argenbras Engenharia, proporciono soluções energéticas eficientes para diversos setores, de indústrias a empreendimentos comerciais.
+- Desde 2017, como líder da Argenbras Engenharia, proporcionando soluções energéticas eficientes para diversos setores, de indústrias a empreendimentos comerciais.
 
-- Agora me propus esse novo desafio, aprender programação e atuar na área de Data Science. 
+- Projetos em progresso: analise de dados de consumo de energia, e criação de modelos preditivos para otimização de consumo.
+Habilidades em desenvolvimento: Python, Pandas, Scikit-learn, Machine Learning.
 
 
 ![will-smith-studying](https://github.com/user-attachments/assets/a0d203df-716b-4dd2-9cd7-622ed3ab804a)
