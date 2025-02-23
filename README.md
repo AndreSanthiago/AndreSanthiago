@@ -3,7 +3,7 @@
 
 - Atualmente, estou aprimorando minhas habilidades em gestão de pessoas, ativos e manutenção através de cursos e iniciativas de desenvolvimento profissional.
 
-Formado em engenharia elétrica, atuuo com  análises de dados, instalações, testes e comissionamentos de sistemas elétricos de potência e automação industrial. Possuo vasta experiência em projetos elétricos, especificações técnicas e manutenção de sistemas de potência.
+Formado em engenharia elétrica, atuo com  análises de dados, instalações, testes e comissionamentos de sistemas elétricos de potência e automação industrial. Possuo vasta experiência em projetos elétricos, especificações técnicas e manutenção de sistemas de potência.
 
 Tive o privilégio de contribuir em um projeto na China, onde otimizei o processo de fabricação de painéis de baixa tensão, garantindo prazos e qualidade.
 
