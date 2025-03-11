@@ -1,7 +1,7 @@
 ## Hi there 👋 Meu  nome é André sou um eterno estudante e agora um novo apaixonado por programação.
 ## Bem vindo ao meu perfil.           ![FUNDO PRETO2](https://github.com/user-attachments/assets/a9c10b08-a8c7-4771-bc22-2dc1e1992ed1)
 
-- Apaixonado por dados e soluções inovadoras, busco aplicar meus conhecimentos em engenharia e meu crescente aprendizado em Data Science para resolver desafios complexos. Atualmente, estou aprimorando minhas habilidades em gestão de pessoas, ativos e manutenção através de cursos e iniciativas de desenvolvimento profissional, e estudando Java scipt, Python e SQL.
+- Apaixonado por dados e soluções inovadoras, busco aplicar meus conhecimentos em engenharia e meu crescente aprendizado em Data Science para resolver desafios complexos. Atualmente, estou aprimorando minhas habilidades em gestão de pessoas, ativos e manutenção através de cursos e iniciativas de desenvolvimento profissional, e estudando Java Script, Python e SQL.
 
 - Formado em engenharia elétrica, com experiência em análises de dados, instalações, testes e comissionamentos de sistemas elétricos de potência e automação industrial. Possuo vasta experiência em projetos elétricos, especificações técnicas e manutenção de sistemas de potência, habilidades que agregam valor na análise de grandes conjuntos de dados.
 
